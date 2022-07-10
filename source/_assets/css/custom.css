@@ -1,0 +1,57 @@
+/* Your custom blog styles here */
+
+a {
+    @apply text-amber-900;
+    @apply hover:text-amber-700;
+}
+
+hr {
+    @apply border-slate-200;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    @apply text-slate-900;
+
+    &:first-child {
+        @apply mt-0;
+    }
+}
+
+h1 {
+    @apply text-4xl;
+    @apply font-bold;
+}
+
+h2 {
+    @apply text-3xl;
+    @apply font-bold;
+}
+
+h3 {
+    @apply text-2xl;
+    @apply font-bold;
+}
+
+h4 {
+    @apply text-xl;
+    @apply font-normal;
+}
+
+h5 {
+    @apply text-lg;
+    @apply font-normal;
+}
+
+h6 {
+    @apply text-lg;
+    @apply font-light;
+}
+
+ul, ol {
+    @apply list-inside
+}
