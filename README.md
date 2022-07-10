@@ -1,4 +1,4 @@
-# Friends of the Taieri Willows
+# Friends of the Taieri Willow
 
 This is the source code and content for a static website built using [Jigsaw][tcj], [Tailwind][twn], [Github Actions][gha] and [Github Pages][ghp]. 
 

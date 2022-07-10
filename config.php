@@ -5,19 +5,19 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => 'http://localhost:8000',
     'production' => false,
-    'siteName' => 'Friends of the Taieri Willows',
-    'siteDescription' => 'Generate an elegant blog with Jigsaw',
-    'siteAuthor' => 'Friends of the Taieri Willows',
+    'siteName' => 'Friends of the Taieri Willow',
+    'siteDescription' => 'News and information about the Friends of the Taieri Willow group',
+    'siteAuthor' => 'Friends of the Taieri Willow',
 
     // collections
     'collections' => [
         'posts' => [
-            'author' => 'Friends of the Taieri Willows', // Default author, if not provided in a post
+            'author' => 'Friends of the Taieri Willow', // Default author, if not provided in a post
             'sort' => '-date',
-            'path' => 'blog/{filename}',
+            'path' => 'news/{filename}',
         ],
         'categories' => [
-            'path' => '/blog/categories/{filename}',
+            'path' => '/news/categories/{filename}',
             'posts' => function ($page, $allPosts) {
                 return $allPosts->filter(function ($post) use ($page) {
                     return $post->categories ? in_array($page->getFilename(), $post->categories, true) : false;

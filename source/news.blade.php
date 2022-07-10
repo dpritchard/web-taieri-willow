@@ -1,6 +1,6 @@
 ---
-title: Blog
-description: The list of blog posts for the site
+title: News
+description: The list of news posts for the site
 pagination:
     collection: posts
     perPage: 4
@@ -8,7 +8,7 @@ pagination:
 @extends('_layouts.main')
 
 @section('body')
-    <h1>Blog</h1>
+    <h1>News</h1>
 
     <hr class="border-b my-6">
 
