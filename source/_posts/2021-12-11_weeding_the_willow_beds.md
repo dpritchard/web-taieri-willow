@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: Weeding the willow beds
+title: Weeding the Willow Beds
 date: 2021-12-11
 author: Bronwyn Lowe
 description: The first post. Loaded for testing purposes. 

@@ -60,8 +60,4 @@ return [
     'isActive' => function ($page, $path) {
         return Str::endsWith(trimPath($page->getPath()), trimPath($path));
     },
-    'fullUrl' => function($page, $path) {
-        $fullUrl = $page->baseUrl . $path;
-        return $fullUrl;
-    },
 ];

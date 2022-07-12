@@ -1,5 +1,4 @@
 /* Your custom blog styles here */
-
 a {
     @apply text-amber-900;
     @apply hover:text-amber-700;
@@ -20,6 +19,9 @@ h6 {
     &:first-child {
         @apply mt-0;
     }
+
+    @apply clear-both;
+
 }
 
 h1 {
@@ -53,5 +55,16 @@ h6 {
 }
 
 ul, ol {
-    @apply list-inside
+    @apply list-inside;
+    @apply px-8;
+    @apply -indent-4;
+}
+
+p {
+    @apply mt-0;
+    @apply mb-3;
+
+    @screen md {
+        @apply mb-6;
+    }
 }

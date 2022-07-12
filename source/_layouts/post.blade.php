@@ -5,15 +5,19 @@
 @endphp
 
 @section('body')
-    @if ($page->cover_image)
-        <img src="{{ $page->fullUrl($page->cover_image) }}" alt="{{ $page->title }} cover image" class="mb-2">
-    @endif
-
     <h1 class="leading-none mb-2">{{ $page->title }}</h1>
 
-    <p class="text-slate-700 text-xl md:mt-0">{{ $page->author }}  •  {{ date('F j, Y', $page->date) }}</p>
+    @if ($page->cover_image)
+        <x-img src="{{ $page->cover_image }}" caption="" class="float-right"
+               alt="{{ $page->title }} cover image"/>
+    @endif
+
+    <p class="text-slate-700">{{ $page->author }}  •  {{ date('F j, Y', $page->date) }}</p>
+
+    @yield('content')
 
     @if ($page->categories)
+        <p>
         @foreach ($page->categories as $i => $category)
             <a
                 href="{{ '/blog/categories/' . $category }}"
@@ -21,11 +25,10 @@
                 class="inline-block bg-slate-200 hover:bg-slate-400 leading-loose tracking-wide text-slate-800 hover:text-slate-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
             >{{ $category }}</a>
         @endforeach
+        <p>
     @endif
 
-    <div class="border-b border-slate-200 mb-10 pb-4" v-pre>
-        @yield('content')
-    </div>
+    <hr class="border-b my-8 clear-both">
 
     <nav class="flex justify-between text-sm md:text-base">
         <div>

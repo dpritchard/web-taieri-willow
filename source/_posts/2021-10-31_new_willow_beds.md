@@ -1,11 +1,11 @@
 ---
 extends: _layouts.post
 section: content
-title: New willow beds
+title: New Willow Beds
 date: 2021-10-31
 author: Bronwyn Lowe
 description: Test 123 
-cover_image: /assets/img/new_willow_beds.jpg
+cover_image: /assets/img/IMG_20211031_134106954.jpg
 featured: false
 categories: [events]
 excerpt: Finished the new willow beds.

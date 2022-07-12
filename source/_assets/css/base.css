@@ -104,8 +104,6 @@ li {
 ol,
 ul {
     @apply my-4;
-    @apply px-8;
-    @apply -indent-4;
 }
 
 ol {
@@ -117,10 +115,10 @@ ul {
 }
 
 p {
-    @apply mb-3;
+    @apply my-3;
 
     @screen md {
-        @apply mb-6;
+        @apply my-6;
     }
 }
 
