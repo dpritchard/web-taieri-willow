@@ -1,9 +1,9 @@
 const defaults = require('tailwindcss/defaultTheme');
 
 module.exports = {
-    content: [
+    content: require('fast-glob').sync([
         'source/**/*.{html,md,js,php,vue}',
-    ],
+    ], { dot: true }),
     theme: {
         extend: {
             fontFamily: {

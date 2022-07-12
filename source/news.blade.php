@@ -8,9 +8,6 @@ pagination:
 @extends('_layouts.main')
 
 @section('body')
-    <h1>News</h1>
-
-    <hr class="border-b my-6">
 
     @foreach ($pagination->items as $post)
         @include('_components.post-preview-inline')
