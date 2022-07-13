@@ -20,7 +20,7 @@
         <p>
         @foreach ($page->categories as $i => $category)
             <a
-                href="{{ '/news/categories/' . $category }}"
+                href="{{ url('/news/categories/' . $category) }}"
                 title="View posts in {{ $category }}"
                 class="inline-block bg-slate-200 hover:bg-slate-400 leading-loose tracking-wide text-slate-800 hover:text-slate-800 uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
             >{{ $category }}</a>
