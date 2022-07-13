@@ -15,10 +15,10 @@ Our group was formed to:
 
 <hr class="border-b my-6">
 
-## Featured News Items
+## Featured News
 
 @include('_layouts.partials.index-featured-posts')
 
-## Other Recent News Items
+## Recent News
 
 @include('_layouts.partials.index-posts')

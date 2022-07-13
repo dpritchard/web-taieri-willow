@@ -1,17 +1,8 @@
-@foreach ($posts->where('featured', false)->take(6)->chunk(2) as $row)
-    <div class="flex flex-col md:flex-row md:-mx-6">
-        @foreach ($row as $post)
-            <div class="w-full md:w-1/2 md:mx-6">
-                @include('_components.post-preview-inline')
-            </div>
-
-            @if (! $loop->last)
-                <hr class="block md:hidden w-full border-b mt-2 mb-6">
-            @endif
-        @endforeach
-    </div>
-
-    @if (! $loop->last)
-        <hr class="w-full border-b mt-2 mb-6">
-    @endif
+<div class="flex flex-col md:flex-row md:flex-wrap">
+@foreach ($posts->take(6) as $post)
+<x-post-inline :post="$post" class="w-full md:w-1/3 lg:w-1/4 py-4 md:py-0 md:px-4"/>
+@if (! $loop->last)
+<hr class="border-b my-6">
+@endif
 @endforeach
+</div>

@@ -3,19 +3,16 @@ title: News
 description: The list of news posts for the site
 pagination:
     collection: posts
-    perPage: 4
+    perPage: 6
 ---
 @extends('_layouts.main')
 
 @section('body')
-
-    @foreach ($pagination->items as $post)
-        @include('_components.post-preview-inline')
-
-        @if ($post != $pagination->items->last())
-            <hr class="border-b my-6">
-        @endif
-    @endforeach
+    <div class="flex flex-col md:flex-row md:flex-wrap">
+        @foreach ($pagination->items as $post)
+            <x-post-inline :post="$post" class="w-full md:w-1/2 lg:w-1/3 py-4 md:py-0 md:px-4"/>
+        @endforeach
+    </div>
 
     @if ($pagination->pages->count() > 1)
         <nav class="flex text-base my-8">

@@ -13,10 +13,11 @@
 
         <main role="main" class="flex flex-col lg:flex-row container max-w-6xl mx-auto px-6">
             <nav id="nav-menu" 
-                 class="pb-3 mb-2 border-b-2 border-slate-200
+                 class="pb-4 mb-4 border-b-2 border-slate-200
                         lg:flex lg:flex-col lg:border-r-2 lg:border-b-0 lg:pr-4 lg:mr-4 lg:pb-0">
                 @include('_layouts.partials.menu')
             </nav>
+
             <div class="">
                  @yield('body')
             </div>

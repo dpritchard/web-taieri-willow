@@ -22,3 +22,7 @@
     class="mr-6 lg:mr-0 text-gray-700 hover:text-amber-700 {{ $page->isActive('/resources') ? 'active text-amber-700' : '' }}">
     Resources
 </a>
+<a title="Gallery" href="{{ url('/gallery') }}"
+    class="mr-6 lg:mr-0 text-gray-700 hover:text-amber-700 {{ $page->isActive('/gallery') ? 'active text-amber-700' : '' }}">
+    Gallery
+</a>
