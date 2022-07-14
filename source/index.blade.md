@@ -4,9 +4,7 @@ description: Our Homepage
 extends: _layouts.main
 section: body
 ---
-Friends of the Taieri Willow exist to maintain the present and valuable collection of willow genotypes in the South Island of New Zealand.
-
-Our group was formed to:
+Friends of the Taieri Willow is a group of people enthusiastic about growing and using willows for basketry. Our group was formed to:
 
 - Maintain the present and valuable collection of basket willow genotypes in the South Island of New Zealand  
 - Provide cuttings to NZ basketmakers of these willows to ensure the continuing survival of basket making as a craft  

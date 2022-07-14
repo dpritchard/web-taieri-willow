@@ -8,7 +8,7 @@
     <h1 class="leading-none mb-2">{{ $page->title }}</h1>
 
     @if ($page->cover_image)
-        <x-img src="{{ $page->cover_image }}" caption="" class="float-right w-1/3 mx-2 my-2"
+        <x-img src="{{ $page->cover_image }}" caption="{{ $page->cover_image_caption }}" class="float-right w-1/3 mx-2 my-2"
                alt="{{ $page->title }} cover image"/>
     @endif
 
