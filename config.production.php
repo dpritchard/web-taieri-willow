@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://dpritchard.github.io/web-taieri-willow',
+    'baseUrl' => 'https://www.taieriwillow.org.nz',
     'production' => true,
 ];
