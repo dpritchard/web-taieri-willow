@@ -36,7 +36,7 @@ We harvest the willows annually, in the winter when the plants are dormant. Harv
 
 <x-img src="/assets/img/IMG_20211121_152957753.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
-We meet the third Sunday of the month throughout the year to work on weaving projects together. We usually met at Maia’s place, 11 Russell Rd, Seacliff. Bring your own lunch and drinks.
+We meet the third Sunday of the month throughout the year to work on weaving projects together. We usually met at Maia’s place, Seacliff. Bring your own lunch and drinks.
 
 Dates for the first half of 2022 are:
 
