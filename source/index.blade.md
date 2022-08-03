@@ -13,10 +13,6 @@ Friends of the Taieri Willow is a group of people enthusiastic about growing and
 
 <hr class="border-b my-6">
 
-## Featured News
-
-@include('_layouts.partials.index-featured-posts')
-
 ## Recent News
 
 @include('_layouts.partials.index-posts')

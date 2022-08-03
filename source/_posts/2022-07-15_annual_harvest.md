@@ -4,7 +4,7 @@ section: content
 title: Annual Harvest, Seacliff
 date: 2022-07-10
 author: Bronwyn Lowe
-description: Test 123 
+description: 
 cover_image: /assets/img/IMG_20220710_155620128.jpg
 cover_image_caption: Nearly done! Willow graded and bundled ready to be taken to storage.
 featured: true
