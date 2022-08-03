@@ -50,11 +50,3 @@ Dates for the first half of 2022 are:
 <p>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8wH5XW9loWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
-## Basketmaking Workshops
-
-<x-img src="/assets/img/IMG_20211204_155415838.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
-
-We run basketmaking workshops for beginners in Autumn and Spring of each year. These two-day workshops are usually run over a weekend. Watch this space for details of upcoming workshops. 
-
-Dates for spring 2022 workshops are still TBC. 

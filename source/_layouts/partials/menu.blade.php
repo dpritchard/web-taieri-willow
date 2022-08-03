@@ -10,6 +10,10 @@
     class="mr-6 lg:mr-0 text-gray-700 hover:text-amber-700 {{ $page->isActive('/news') ? 'active text-amber-700' : '' }}">
     News
 </a>
+<a title="Workshops" href="{{ url('/workshops') }}"
+    class="mr-6 lg:mr-0 text-gray-700 hover:text-amber-700 {{ $page->isActive('/workshops') ? 'active text-amber-700' : '' }}">
+    Workshops
+</a>
 <a title="Events" href="{{ url('/events') }}"
     class="mr-6 lg:mr-0 text-gray-700 hover:text-amber-700 {{ $page->isActive('/events') ? 'active text-amber-700' : '' }}">
     Events
