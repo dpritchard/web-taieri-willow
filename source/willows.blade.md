@@ -196,7 +196,7 @@ We grow a wide range of species and varieties within species in our community wi
 <tr class="odd">
 <td class="border border-slate-300">29</td>
 <td class="border border-slate-300"><em>Salix purpurea</em></td>
-<td class="border border-slate-300">Leistershire Dicks</td>
+<td class="border border-slate-300">Leicestershire Dicks</td>
 <td class="border border-slate-300"></td>
 </tr>
 <tr class="even">
