@@ -34,7 +34,7 @@ Bring secateurs, loppers, and gloves. Hot soup and buns are provided for lunch, 
 
 <x-img src="/assets/img/IMG_20211121_152957753.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
-We meet the third Sunday of the month throughout the year to work on weaving projects together. We usually met at Maia’s place, Seacliff.
+We meet the third Sunday of the month throughout the year to work on weaving projects together. We usually meet at Maia’s place, Seacliff.
 
 This month’s weaving get-together we will be weaving basket bases with a mix of green and soaked up willow.
 **Sunday 18<sup>th</sup> September 10-4pm**.

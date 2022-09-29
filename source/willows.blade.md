@@ -7,7 +7,7 @@ section: body
 
 <x-img src="/assets/img/DSC_4798.JPG" caption="" class="mx-2 my-2"/>
 
-We grow a wide range of species and varieties within species in our community willow beds. Most are useful for basketmaking, some are good for floristry, and some we are still experimenting with to see how they perform. Most of our willows are grown as stools, but we are also experimenting with growing some varieties as pollards (see [willow terminology](https://www.musgrovewillows.co.uk/blog/the-language-of-the-willow-grower-weaver/) on our [resources page]({{ url('/resources') }}))
+We grow a wide range of species and varieties within species in our community willow beds. Most are useful for basketmaking, some are good for floristry, and some we are still experimenting with to see how they perform. Most of our willows are grown as coppiced stools, but we are also experimenting with growing some varieties as pollards (see [willow terminology](https://www.musgrovewillows.co.uk/blog/the-language-of-the-willow-grower-weaver/) on our [resources page]({{ url('/resources') }}))
 
 <table class="border-collapse border border-slate-400 w-full">
 <colgroup>
