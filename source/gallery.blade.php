@@ -6,7 +6,7 @@ description: TPhotos of baskets we’ve made and fun things we’ve done
 
 @section('body')
 <div class="flex flex-wrap">
-    <!-- <x-img src="/assets/img/IMG_20201112_173229778.jpg" caption="Hardworking baskets at a weeding day – we’ve all made very useful baskets!" class="w-1/2 px-2 py-2"/> -->
+    <x-img src="/assets/img/IMG_20210914_150907946.jpg" caption="Hardworking baskets at a weeding day – we’ve all made very useful baskets!" class="w-1/2 px-2 py-2"/>
 
     <x-img src="/assets/img/IMG_20201112_173229778.jpg" caption="A willow fence to keep rabbits from eating our young willow cuttings at the Taieri site, November 2022." class="w-1/2 px-2 py-2"/>
     

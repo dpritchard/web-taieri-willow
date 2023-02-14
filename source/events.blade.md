@@ -12,9 +12,7 @@ We have regular working bees through the year to look after our willow beds. Wor
 
 <x-img src="/assets/img/IMG_20200530_162358855.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
-The next Working Bee will be weeding and mulching the willow beds. Bring garden sharks! 
-**Saturday 24<sup>th</sup> September 1-4pm**
-
+Next work day is **Saturday 25 February 1-4pm** to weed and complete mulching the planting area. Bring sharks and gloves. 
 
 [Contact us]({{ url('/contact') }}) to find out more about working bees. 
 
@@ -36,8 +34,7 @@ Bring secateurs, loppers, and gloves. Hot soup and buns are provided for lunch, 
 
 We meet the third Sunday of the month throughout the year to work on weaving projects together. We usually meet at Maia’s place, Seacliff.
 
-This month’s weaving get-together we will be weaving basket bases with a mix of green and soaked up willow.
-**Sunday 18<sup>th</sup> September 10-4pm**.
+Next get together is Japanese Brushmaking on **Sunday 19 February 10am - 4pm**. Limited to 10 people, bring 30-40 tī kōuka leaves soaked for 2-4 days and wrapped to mellow overnight. Bring your own lunch. A second one will be held later in the year for those that can’t make the first one. 
 
 <p>
 <iframe class="clear-both px-auto" width="560" height="315" src="https://www.youtube-nocookie.com/embed/8wH5XW9loWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
