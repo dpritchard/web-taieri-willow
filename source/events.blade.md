@@ -12,7 +12,11 @@ We have regular working bees through the year to look after our willow beds. Wor
 
 <x-img src="/assets/img/IMG_20200530_162358855.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
-Next work day is **Saturday 25 February 1-4pm** to weed and complete mulching the planting area. Bring sharks and gloves. 
+Next work day in the willow bed is **Sunday May 28th 12pm-3pm** (note we’ve made weeding day start time a bit earlier than it used to be). Three main jobs planned for this day:
+
+1. On-going weeding and spreading our pile of chipper mulch to prepare for harvest. Bring sharks and gloves. A wheelbarrow and pitch fork would be good for the mulch if anyone can easily bring these. 
+2. Clearing the access to the current willow storage area on the neighbour’s property to give safe access during harvest. If you can, bring a rake, wheelbarrow, weed-eater, and / or sacks to help with this job. 
+3. Attaching labels with the variety names to the fence at the end of each row, in preparation for harvest. This will be a great chance to get know the names of the varieties and what they look like before their leaves all fall.
 
 [Contact us]({{ url('/contact') }}) to find out more about working bees. 
 
@@ -24,17 +28,13 @@ We harvest the willows annually, in the winter when the plants are dormant. Harv
 
 The [2022 harvest]({{ url('/news/2022-07-15_annual_harvest/') }}) was on 10<sup>th</sup> of July. [Contact us]({{ url('/contact') }}) to find out more about the next harvest. 
 
-<!-- 
-Bring secateurs, loppers, and gloves. Hot soup and buns are provided for lunch, but to minimise Covid risk, bring your own cold drinks, thermos of coffee or tea, drinking mug and hand towel. Rug up too, its going to be cold!
- -->
-
 ## Weaving Get-Togethers
 
 <x-img src="/assets/img/IMG_20211121_152957753.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
 We meet the third Sunday of the month throughout the year to work on weaving projects together. We usually meet at Maia’s place, Seacliff.
 
-Next get together is Japanese Brushmaking on **Sunday 19 February 10am - 4pm**. Limited to 10 people, bring 30-40 tī kōuka leaves soaked for 2-4 days and wrapped to mellow overnight. Bring your own lunch. A second one will be held later in the year for those that can’t make the first one. 
+Next get-together is pine needle coil baskets/string making on **Sunday June 18th 10am - 4pm.** Bring your own lunch. And it doesn’t have to be pine needles – if you’ve got some interesting long thin plant material you’d like to turn into a coil basket, bring it along!
 
 <p>
 <iframe class="clear-both px-auto" width="560" height="315" src="https://www.youtube-nocookie.com/embed/8wH5XW9loWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
