@@ -12,11 +12,15 @@ We have regular working bees through the year to look after our willow beds. Wor
 
 <x-img src="/assets/img/IMG_20200530_162358855.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
-Next work day in the willow bed is **Sunday May 28th 12pm-3pm** (note we’ve made weeding day start time a bit earlier than it used to be). Three main jobs planned for this day:
+It's the fourth Saturday of the month this weekend, which means it's a work day! 
 
-1. On-going weeding and spreading our pile of chipper mulch to prepare for harvest. Bring sharks and gloves. A wheelbarrow and pitch fork would be good for the mulch if anyone can easily bring these. 
-2. Clearing the access to the current willow storage area on the neighbour’s property to give safe access during harvest. If you can, bring a rake, wheelbarrow, weed-eater, and / or sacks to help with this job. 
-3. Attaching labels with the variety names to the fence at the end of each row, in preparation for harvest. This will be a great chance to get know the names of the varieties and what they look like before their leaves all fall.
+**Saturday 24<sup>th</sup> June** 
+
+**12pm - 4pm**
+
+We'll be weeding, mulching, and sorting ties and labels in preparation for the annual harvest. A small group will head to the storage shed to arrange the pallets into bays for storage of our willow harvest, and to clear out our second shed.
+
+Bring food and drink, warm clothes and tools.
 
 [Contact us]({{ url('/contact') }}) to find out more about working bees. 
 
@@ -24,9 +28,9 @@ Next work day in the willow bed is **Sunday May 28th 12pm-3pm** (note we’ve ma
 
 <x-img src="/assets/img/IMG_20210626_145245987.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
-We harvest the willows annually, in the winter when the plants are dormant. Harvest usually happens late June/early July, after all the willows have dropped their leaves, and before the sap begins to move again. Check the website to find out the exact date for the harvest and come along.
+We harvest the willows annually, in the winter when the plants are dormant. Harvest usually happens late June / early July, after all the willows have dropped their leaves, and before the sap begins to move again. Check the website to find out the exact date for the harvest and come along.
 
-The [2022 harvest]({{ url('/news/2022-07-15_annual_harvest/') }}) was on 10<sup>th</sup> of July. [Contact us]({{ url('/contact') }}) to find out more about the next harvest. 
+Our recent work, along with the dawning of Matariki, brings us to harvest time. This year's harvest dates will be **Saturday and Sunday July 15<sup>th</sup> and 16<sup>th</sup> 2023**. Please make a note of these dates, we'll be in touch with further info.
 
 ## Weaving Get-Togethers
 
@@ -36,7 +40,7 @@ We meet the third Sunday of the month throughout the year to work on weaving pro
 
 We're having three concurrent workshops at our June get together. Numbers are limited so make your choice and get in quick !
 
-**Sunday 18th June**  
+**Sunday 18<sup>th</sup> June**  
 **10am - 4pm**  
 **Maia's place, Seacliff**  
 **BYO lunch**  
