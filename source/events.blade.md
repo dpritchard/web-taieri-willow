@@ -30,7 +30,27 @@ Bring food and drink, warm clothes and tools.
 
 We harvest the willows annually, in the winter when the plants are dormant. Harvest usually happens late June / early July, after all the willows have dropped their leaves, and before the sap begins to move again. Check the website to find out the exact date for the harvest and come along.
 
-Our recent work, along with the dawning of Matariki, brings us to harvest time. This year's harvest dates will be **Saturday and Sunday July 15<sup>th</sup> and 16<sup>th</sup> 2023**. Please make a note of these dates, we'll be in touch with further info.
+Our recent work, along with the dawning of Matariki, brings us to harvest time. This year's harvest dates will be **Saturday and Sunday July 15<sup>th</sup> and 16<sup>th</sup> 2023**. 
+
+<!-- Please make a note of these dates, we'll be in touch with further info. -->
+
+All are welcome - there will be work for everyone from sedentary to energetic, with guidance from experienced harvesters.
+
+**Seacliff Willow Beds, Russell Rd** (please [contact us](/contact) if you need directions!)
+ 
+**10am Welcome and Briefing each day, please try to make it in time for this, 4pm finish.**
+ 
+**Bring:**  
+
+- Warm clothes
+- Gumboots (essential)
+- Gardening gloves
+- Sharp loppers and secateurs
+- Mug and spoon for soup and hot drinks (soup and rolls will be provided)
+- A thermos with something warm if you have one
+- Snacks and sweets as you need
+ 
+Please let us know by emailing taieriwillow@gmail.com if you're planning to attend, it will assist with soup quantities!
 
 ## Weaving Get-Togethers
 
