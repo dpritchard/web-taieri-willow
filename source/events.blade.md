@@ -32,9 +32,9 @@ We harvest the willows annually, in the winter when the plants are dormant. Harv
 
 <!-- Please make a note of these dates, we'll be in touch with further info. -->
 
-**Last day of harvest for 2023 – next Sunday 23<sup>rd</sup> July**
+**Last day of harvest for 2023 – next Saturday 22<sup>nd</sup> July**
  
-We made great progress over the Matariki weekend, and have nearly finished the annual harvest. We’ve got 7 more rows of Green Dicks, and 1 row of Brunette Noir to go – wooohooo! With a team of people helping we should get that all cut, sorted and bundled on Sunday. Come along and experience what harvesting willow is all about!
+We made great progress over the Matariki weekend, and have nearly finished the annual harvest. We’ve got 7 more rows of Green Dicks, and 1 row of Brunette Noir to go – wooohooo! With a team of people helping we should get that all cut, sorted and bundled on Saturday. Come along and experience what harvesting willow is all about!
  
 All are welcome - there will be work for everyone from sedentary to energetic, with guidance from experienced harvesters.
  
