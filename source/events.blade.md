@@ -12,15 +12,9 @@ We have regular working bees through the year to look after our willow beds. Wor
 
 <x-img src="/assets/img/IMG_20200530_162358855.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
-It's the fourth Saturday of the month this weekend, which means it's a work day! 
+Next working bee day is on **Saturday 26<sup>th</sup> August 2023, 12 – 4pm**.
 
-**Saturday 24<sup>th</sup> June** 
-
-**12pm - 4pm**
-
-We'll be weeding, mulching, and sorting ties and labels in preparation for the annual harvest. A small group will head to the storage shed to arrange the pallets into bays for storage of our willow harvest, and to clear out our second shed.
-
-Bring food and drink, warm clothes and tools.
+We’ll be tidying up after our very successful harvest. All the willow has been cut, but we’ve got a few cultivars that still need their final sort and bundling. Jobs on the day will include sorting, bundling, tying and labelling, completing the inventory of harvest bundles and a general tidy up of the sorting areas. Bring gloves, yard shark (if you have one), warm drink and snacks, and wear warm clothes. If you can bring a wheelbarrow and pitch fork it would be great to start spreading the woodchip mulch in the beds and stay ahead of the spring growth of grass and weeds!
 
 [Contact us]({{ url('/contact') }}) to find out more about working bees. 
 
@@ -28,58 +22,29 @@ Bring food and drink, warm clothes and tools.
 
 <x-img src="/assets/img/harvest16July2023.jpg" caption="Beginning the 2023 harvest." class="float-right w-1/3 mx-2 my-2"/>
 
-We harvest the willows annually, in the winter when the plants are dormant. Harvest usually happens late June / early July, after all the willows have dropped their leaves, and before the sap begins to move again. Check the website to find out the exact date for the harvest and come along.
+We harvest the willows annually, in the winter when the plants are dormant. Harvest usually happens late June / early July, after all the willows have dropped their leaves, and before the sap begins to move again. Check the website to find out the exact date for the harvest and come along. You can read about previous harvests in [2022][2022] and [2023][2023] on our News Page. 
 
-<!-- Please make a note of these dates, we'll be in touch with further info. -->
-
-**Last day of harvest for 2023 – next Saturday 22<sup>nd</sup> July**
- 
-We made great progress over the Matariki weekend, and have nearly finished the annual harvest. We’ve got 7 more rows of Green Dicks, and 1 row of Brunette Noir to go – wooohooo! With a team of people helping we should get that all cut, sorted and bundled on Saturday. Come along and experience what harvesting willow is all about!
- 
-All are welcome - there will be work for everyone from sedentary to energetic, with guidance from experienced harvesters.
- 
-**Seacliff Willow Beds, Russell Rd** (please [contact us](/contact) if you need directions!)
- 
-**10am Welcome and Briefing, please try to make it in time for this, 4pm finish.**
- 
-**Bring:**  
-
-- **Warm clothes**
-- **Gumboots (essential)**
-- **Gardening gloves**
-- **Sharp loppers and secateurs**
-- **Mug and spoon for soup and hot drinks (soup and rolls will be provided)**
-- **A thermos with something warm if you have one**
-- **Snacks and sweets as you need**
- 
-Please let us know by emailing taieriwillow@gmail.com if you're planning to attend, it will assist with soup quantities!
+[2023]: {{ url('/news/2023-07-23_annual_harvest') }}
+[2022]: {{ url('/news/2022-07-15_annual_harvest') }}
 
 ## Weaving Get-Togethers
 
 <x-img src="/assets/img/IMG_20211121_152957753.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
 We meet the third Sunday of the month throughout the year to work on weaving projects together. We usually meet at Maia’s place, Seacliff.
+ 
+**Green willow day – tension trays and free form fun with the Leicestershire Dicks and Green Dicks harvest rejects**
 
-We're having three concurrent workshops at our June get together. Numbers are limited so make your choice and get in quick !
+Date: Sunday 20th August 10am – 4pm, BYO lunch
 
-**Sunday 18<sup>th</sup> June**  
-**10am - 4pm**  
-**Maia's place, Seacliff**  
-**BYO lunch**  
+Location: Maia’s place, **OR** if the weather is sunny and mild, up at the Seacliff willow beds and we’ll weave outdoors
 
-Register for your choice of workshop by email to [taieriwillow@gmail.com](mailto:taieriwillow@gmail.com). Please keep in mind that the groups will be kept fairly small (6 in each brush workshop, 8 in the pine needle coil basket). We hope to be able to accommodate everyone, but we're limiting numbers to make sure there's enough tutor time and working space for all :
+- Make a simple circular tension tray using green willow.
+- Weaving free form objects – be inventive and go wild! Balls, stars, mini cloches, bean teepees - the possibilities are endless.
 
-- **Pine Needle Coil Baskets** (Jill). Make a little coiled basket using pine needles and linen thread ($5 contribution towards materials please)
-- **Beginner Tī Kōuka Brush** (Maia). This one is for the folks who missed out last time (BYO pre soaked tī kōuka please - at least 20 of the longest leaves you can find, soaked for 3-4 days prior to the workshop)
-- **Intermediate Tī Kōuka Brush** (Julie and Barbara). This workshop requires a bit more preparation: you'll need about 3m of your own hand made, strong, dry string (harakeke or tī kōuka for example), at least 20 of the longest tī kōuka leaves you can find - soaked as soon as possible to be ready by the 18th. Also, a metal nit comb (!) or florists/flower frog if you have either.
+Preparation for the day: None required, except maybe do your own background reading/research eg Jenny Crisp book, baskets2day app, web searches for tension trays and free form ideas – there’s oodles out there!
 
-Thank you in advance to the tutors who have offered to share their time and skill for our collective benefit. More information will follow once groups have been finalised.
-
-Any questions let Tessa know via email [taieriwillow@gmail.com](mailto:taieriwillow@gmail.com).
-
-Kā mihi nui
-
-Tessa
+Bring on the day: Your weaving kit, string (eg twine you have made, harakeke leaf for making strips) for tying tension tray circle/hoop in shape
 
 <p>
 <iframe class="clear-both px-auto" width="560" height="315" src="https://www.youtube-nocookie.com/embed/8wH5XW9loWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
