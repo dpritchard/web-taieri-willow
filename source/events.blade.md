@@ -12,11 +12,19 @@ We have regular working bees through the year to look after our willow beds. Wor
 
 <x-img src="/assets/img/IMG_20200530_162358855.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
-Next working bee day is on **Saturday 26<sup>th</sup> August 2023, 12 – 4pm**.
+The upcoming working bee days are:
 
-We’ll be tidying up after our very successful harvest. All the willow has been cut, but we’ve got a few cultivars that still need their final sort and bundling. Jobs on the day will include sorting, bundling, tying and labelling, completing the inventory of harvest bundles and a general tidy up of the sorting areas. Bring gloves, yard shark (if you have one), warm drink and snacks, and wear warm clothes. If you can bring a wheelbarrow and pitch fork it would be great to start spreading the woodchip mulch in the beds and stay ahead of the spring growth of grass and weeds!
+- 30<sup>th</sup> September 2023
+- 28<sup>th</sup> October 2023
+- 18<sup>th</sup> November 2023
+- 30<sup>th</sup> December 2023
+- 27<sup>th</sup> January 2023
 
 [Contact us]({{ url('/contact') }}) to find out more about working bees. 
+
+## AGM
+
+Our first AGM is being held on **25<sup>th</sup> Sept 2023** from **6:30 to 8:00 pm** at the **Dunningham Suite, Dunedin Public Library**.
 
 ## Annual Harvest
 
@@ -31,20 +39,13 @@ We harvest the willows annually, in the winter when the plants are dormant. Harv
 
 <x-img src="/assets/img/IMG_20211121_152957753.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
-We meet the third Sunday of the month throughout the year to work on weaving projects together. We usually meet at Maia’s place, Seacliff.
- 
-**Green willow day – tension trays and free form fun with the Leicestershire Dicks and Green Dicks harvest rejects**
+We meet the third Sunday of the month throughout the year to work on weaving projects together. We work on various projects, including tension trays, bending frames and handles, making string and brushes. For more information and if you wish to join please [Contact us]({{ url('/contact') }}). 
 
-Date: Sunday 20th August 10am – 4pm, BYO lunch
+The dates for the next weaving get-togethers are:
 
-Location: Maia’s place, **OR** if the weather is sunny and mild, up at the Seacliff willow beds and we’ll weave outdoors
-
-- Make a simple circular tension tray using green willow.
-- Weaving free form objects – be inventive and go wild! Balls, stars, mini cloches, bean teepees - the possibilities are endless.
-
-Preparation for the day: None required, except maybe do your own background reading/research eg Jenny Crisp book, baskets2day app, web searches for tension trays and free form ideas – there’s oodles out there!
-
-Bring on the day: Your weaving kit, string (eg twine you have made, harakeke leaf for making strips) for tying tension tray circle/hoop in shape
+- 24<sup>th</sup> September 2023
+- 26<sup>th</sup> November 2023
+- 21<sup>st</sup> January 2024
 
 <p>
 <iframe class="clear-both px-auto" width="560" height="315" src="https://www.youtube-nocookie.com/embed/8wH5XW9loWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
