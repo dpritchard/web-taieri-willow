@@ -11,8 +11,9 @@ We run basketmaking workshops for beginners in Autumn and Spring of each year. T
 
 The dates for the upcoming workshops are: 
 
- - Beginners 7<sup>th</sup> and 8<sup>th</sup> October. Now fully booked
+ - Beginners 7<sup>th</sup> to 8<sup>th</sup> October. Now fully booked
  - Intermediate 4<sup>th</sup> November. Now fully booked. 
+ - Beginners 2<sup>nd</sup> to 3<sup>rd</sup> December. Spaces Available.
  - Autumn Workshops: TBA
 
 If you would like to get on the wait list for the 2023/24 basketmaking season, please send your contact details to Tessa via taieriwillow@gmail.com
