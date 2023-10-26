@@ -5,14 +5,14 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => 'http://localhost:8000',
     'production' => false,
-    'siteName' => 'Friends of the Taieri Willow',
-    'siteDescription' => 'News and information about the Friends of the Taieri Willow group',
-    'siteAuthor' => 'Friends of the Taieri Willow',
+    'siteName' => 'Coastal Otago Willows and Weavers',
+    'siteDescription' => 'News and information about the Coastal Otago Willows and Weavers group',
+    'siteAuthor' => 'Coastal Otago Willows and Weavers',
 
     // collections
     'collections' => [
         'posts' => [
-            'author' => 'Friends of the Taieri Willow', // Default author, if not provided in a post
+            'author' => 'Coastal Otago Willows and Weavers', // Default author, if not provided in a post
             'sort' => '-date',
             'path' => 'news/{filename}',
         ],

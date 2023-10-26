@@ -3,11 +3,12 @@
     @include('_layouts.partials.head')
 
     <body class="flex flex-col min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
-        <header class="flex container justify-between max-w-6xl mx-auto px-6 py-8">
+        <header class="flex container flex-col max-w-6xl px-6 py-8">
             <a href="{{ $page->baseUrl }}" title="{{ $page->siteName }} Home" class="inline-flex flex-1 items-center">
                 <!-- <img class="h-8 md:h-10 mr-3" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" /> -->
                 <h1 class="font-bold hover:text-emerald-700 my-0">{{ $page->siteName }}</h1>
             </a>
+            <p class="text-sm text-slate-200">Formally the Friends of the Taieri Willow</p>
             <!-- @include('_layouts.partials.menu-toggle') -->
         </header>
 
