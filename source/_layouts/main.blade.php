@@ -8,7 +8,7 @@
                 <!-- <img class="h-8 md:h-10 mr-3" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" /> -->
                 <h1 class="font-bold hover:text-emerald-700 my-0">{{ $page->siteName }}</h1>
             </a>
-            <p class="text-sm text-slate-200">Formally the Friends of the Taieri Willow</p>
+            <p class="text-sm text-slate-800">Formally the Friends of the Taieri Willow</p>
             <!-- @include('_layouts.partials.menu-toggle') -->
         </header>
 
