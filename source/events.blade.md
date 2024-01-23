@@ -14,11 +14,12 @@ We have regular working bees through the year to look after our willow beds. Wor
 
 The upcoming working bee days are:
 
-- 30<sup>th</sup> September 2023
-- 28<sup>th</sup> October 2023
-- 18<sup>th</sup> November 2023
-- 30<sup>th</sup> December 2023
-- 27<sup>th</sup> January 2023
+- 27<sup>th</sup> January 2024
+- 24<sup>th</sup> February 2024
+- 23<sup>rd</sup> March 2024
+- 27<sup>th</sup> April 2024
+- 25<sup>th</sup> May 2024
+- 29<sup>th</sup> June 2024
 
 [Contact us]({{ url('/contact') }}) to find out more about working bees. 
 
@@ -43,9 +44,8 @@ We meet the third Sunday of the month throughout the year to work on weaving pro
 
 The dates for the next weaving get-togethers are:
 
-- 24<sup>th</sup> September 2023
-- 26<sup>th</sup> November 2023
-- 21<sup>st</sup> January 2024
+- 18<sup>th</sup> February 2024
+- 17<sup>th</sup> March 2024
 
 <p>
 <iframe class="clear-both px-auto" width="560" height="315" src="https://www.youtube-nocookie.com/embed/8wH5XW9loWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
