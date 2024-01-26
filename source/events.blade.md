@@ -25,7 +25,7 @@ The upcoming working bee days are:
 
 ## AGM
 
-Our first AGM is being held on **25<sup>th</sup> Sept 2023** from **6:30 to 8:00 pm** at the **Dunningham Suite, Dunedin Public Library**.
+Our first AGM was held on **25<sup>th</sup> Sept 2023** from **6:30 to 8:00 pm** at the **Dunningham Suite, Dunedin Public Library**.
 
 ## Annual Harvest
 
