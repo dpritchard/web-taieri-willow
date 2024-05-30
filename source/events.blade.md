@@ -5,6 +5,24 @@ extends: _layouts.main
 section: body
 ---
 
+## Annual Harvest
+
+<x-img src="/assets/img/harvest16July2023.jpg" caption="Beginning the 2023 harvest." class="float-right w-1/3 mx-2 my-2"/>
+
+We harvest the willows annually, in the winter when the plants are dormant. Harvest usually happens late June / early July, after all the willows have dropped their leaves, and before the sap begins to move again. 
+
+**The 2024 Harvest Dates Have Been Set!** 
+
+Join us on the weekends of the 6<sup>th</sup> - 7<sup>th</sup> and 13<sup>th</sup> - 14<sup>th</sup> of July 2024, 10am to 4pm each day at the Willow Beds. [Contact us]({{ url('/contact') }}) to find out more!
+
+<!-- 
+Check the website to find out the exact date for the harvest and come along. 
+ -->
+You can read about previous harvests in [2022][2022] and [2023][2023] on our News Page. 
+
+[2023]: {{ url('/news/2023-07-23_annual_harvest') }}
+[2022]: {{ url('/news/2022-07-15_annual_harvest') }}
+
 ## Monthly Working Bees
 <x-img src="/assets/img/IMG_20181124_163001906_HDR.jpg" caption="" class="float-right w-1/3 mx-2 my-2"/>
 
@@ -19,7 +37,6 @@ The upcoming working bee days are:
 - 23<sup>rd</sup> March 2024
 - 27<sup>th</sup> April 2024
 - 25<sup>th</sup> May 2024
-- 29<sup>th</sup> June 2024
 
 [Contact us]({{ url('/contact') }}) to find out more about working bees. 
 
@@ -27,14 +44,6 @@ The upcoming working bee days are:
 
 Our first AGM was held on **25<sup>th</sup> Sept 2023** from **6:30 to 8:00 pm** at the **Dunningham Suite, Dunedin Public Library**.
 
-## Annual Harvest
-
-<x-img src="/assets/img/harvest16July2023.jpg" caption="Beginning the 2023 harvest." class="float-right w-1/3 mx-2 my-2"/>
-
-We harvest the willows annually, in the winter when the plants are dormant. Harvest usually happens late June / early July, after all the willows have dropped their leaves, and before the sap begins to move again. Check the website to find out the exact date for the harvest and come along. You can read about previous harvests in [2022][2022] and [2023][2023] on our News Page. 
-
-[2023]: {{ url('/news/2023-07-23_annual_harvest') }}
-[2022]: {{ url('/news/2022-07-15_annual_harvest') }}
 
 ## Weaving Get-Togethers
 
